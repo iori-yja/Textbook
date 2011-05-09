@@ -47,12 +47,13 @@
 %%    The remap option [-r] is simply ignored.
 
 %% M+ font
-rml  H :0:mplus-2c-regular
-gbm  H :0:mplus-2c-regular
-rmlv V :0:mplus-2c-regular
-gbmv V :0:mplus-2c-regular
+rml  H :0:Migu-1C-regular
+gbm  H :0:Migu-1C-regular
+rmlv V :0:Migu-1C-regular
+gbmv V :0:Migu-1C-regular
 
-rml-jis H :0:mplus-2c-regular
-gbm-jis H :0:mplus-2c-regular
+rml-jis H :0:Migu-1C-regular
+gbm-jis H :0:Migu-1C-regular
+
 
 
